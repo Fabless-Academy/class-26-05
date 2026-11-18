@@ -5,6 +5,8 @@ fabless internship 5th class
 
 ## [수업자료](https://github.com/Fabless-Academy/Fabless-internship-materials)
 
+## [google sheet](https://docs.google.com/spreadsheets/d/1wHAPaFE64uvyExWjRZ0yT1cLiGK9Vg58zMKKs73vggk/edit?usp=sharing)
+
 ## Classmates
 
 1. 강민석
