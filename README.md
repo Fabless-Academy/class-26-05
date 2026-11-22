@@ -12,7 +12,7 @@ fabless internship 5th class
 1. 강민석
 2. 김민석
 3. 김연우
-4. 김준우
+4. [김준우](https://github.com/Fabless-Academy/kimj)
 5. 김진원
 6. [배한성](https://github.com/Fabless-Academy/FI-05-06_BHS)
 7. 성원제
