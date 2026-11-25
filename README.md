@@ -18,7 +18,7 @@ fabless internship 5th class
 7. 성원제
 8. [이동근](https://github.com/Fabless-Academy/FI-05-08_LDG)
 9. [이상협](https://github.com/Fabless-Academy/FI-05-09_LSH)
-10. 이승열
+10. \-
 11. [이영민](https://github.com/Fabless-Academy/FI-05-11_LYM)
 12. 이영현
 13. [이주형](https://github.com/Fabless-Academy/FI-05-13_LJH)
