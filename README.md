@@ -3,6 +3,8 @@ fabless internship 5th class
 
 팹리스 점프업 일경험 프로그램 4기
 
+## [Schedule](./schedule.md)
+
 ## [수업자료](https://github.com/Fabless-Academy/Fabless-internship-materials)
 
 ## [google sheet](https://docs.google.com/spreadsheets/d/1wHAPaFE64uvyExWjRZ0yT1cLiGK9Vg58zMKKs73vggk/edit?usp=sharing)
