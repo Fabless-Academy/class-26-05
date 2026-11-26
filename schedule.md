@@ -1,5 +1,98 @@
 # Schedule plan
 
+## Telechips 강의
+
+### 8'th day: 11/28, 8h
+
+* Zonal system 통합
+  * Object Detection 소개
+  * Yolo compile 실습
+* Project
+  * create project repo and connet to class project
+
+### Project: 11/30 ~ 12/2, 8h/d
+* Yolo8 model training 실습: 11/30, 3h
+  * RPS dataset
+
+### Project 발표 및 정리: 12/3, 4h
+
+### 7'th day: 11/26, 8h
+
+* CNN models
+* Fine Tuning 소개
+* AI-G board bringup
+  * Install `camera`
+  * Install display
+* Model converting
+  * Model optimization 개념 이해
+  * Lenet5 inferencing 실습
+
+### 6'th day: 11/25, 8h
+
+* AI
+  * AI 란?
+  * Machine Learning
+  * Deep Learning
+* CNN model training
+
+### 5'th day: 11/24, 8h
+
+* `CAN` 실습
+  * `CAN` 기본 개념 실습
+* D3-G 와 통합 운영 실습
+  * SW archtecture 이해
+  * VCP debuging environment
+* QT
+  * QT 기본
+  * Dash board application
+
+### 4'th day: 11/23, 8h
+
+* VCP 실습
+  * `PDM` & `PWM`
+  * `I2C`
+  * `SPI`
+* `CAN` 실습
+  * `CAN` 기본 개념 실습
+* D3-G 와 통합 운영 실습
+  * SW archtecture 이해
+  * VCP debuging environment
+
+### 3'rd day: 11/20, 8h
+
+* VCP 실습
+  * GPIO I/O 실습
+  * `ADC`
+* VCP-G board bingup
+  * FreRTOS
+  * VCP SW-Architecture
+  * VCP 개발환경 setup
+* GPIO 제어 실습
+  * LED Control
+
+### 2'nd day: 11/19, 8h
+
+* Telechips board bringup
+* Linux basic
+  * shell commands
+* D3-G board setup
+  * Network setup: 고정IP w/ Netplan
+  * Extend Disc space
+  * `swap space` 조정
+  * `apt` 활용
+* C programming and compile
+  * `gcc` 실습
+* C vs. python
+  * Compile vs. Script
+* `make` 소개
+
+### 1'st day: 11/18, 6h
+
+<!-- * codeXpert 등록 -->
+* google shared drive
+* github setup
+* shell
+
 <!-- ## Nextchip 강의
 
 ### Mentoring 진행
@@ -89,96 +182,3 @@
   * vi editor
 
 --- -->
-
-## Telechips 강의
-
-### 8'th day: 11/28, 8h
-
-* Zonal system 통합
-  * Object Detection 소개
-  * Yolo compile 실습
-* Project
-
-### Project: 11/30 ~ 12/2, 8h/d
-* Yolo8 model training 실습
-  * RPS dataset
-
-### Project 발표 및 정리: 12/3, 4h
-
-### 7'th day: 11/26, 8h
-
-* CNN models
-* Fine Tuning 소개
-* AI-G board bringup
-  * Install `camera`
-  * Install display
-* Model converting
-  * Model optimization 개념 이해
-  * Lenet5 inferencing 실습
-
-### 6'th day: 11/25, 8h
-
-* AI
-  * AI 란?
-  * Machine Learning
-  * Deep Learning
-* CNN model training
-
-### 5'th day: 11/24, 8h
-
-* `CAN` 실습
-  * `CAN` 기본 개념 실습
-* D3-G 와 통합 운영 실습
-  * SW archtecture 이해
-  * VCP debuging environment
-* QT
-  * QT 기본
-  * Dash board application
-
-### 4'th day: 11/23, 8h
-
-* VCP 실습
-  * `PDM` & `PWM`
-  * `I2C`
-  * `SPI`
-* `CAN` 실습
-  * `CAN` 기본 개념 실습
-* D3-G 와 통합 운영 실습
-  * SW archtecture 이해
-  * VCP debuging environment
-
-### 3'rd day: 11/20, 8h
-
-* VCP 실습
-  * GPIO I/O 실습
-  * `ADC`
-* VCP-G board bingup
-  * FreRTOS
-  * VCP SW-Architecture
-  * VCP 개발환경 setup
-* GPIO 제어 실습
-  * LED Control
-
-### 2'nd day: 11/19, 8h
-
-* Telechips board bringup
-* Linux basic
-  * shell commands
-* D3-G board setup
-  * Network setup: 고정IP w/ Netplan
-  * Extend Disc space
-  * `swap space` 조정
-  * `apt` 활용
-* C programming and compile
-  * `gcc` 실습
-* C vs. python
-  * Compile vs. Script
-* `make` 소개
-
-### 1'st day: 11/18, 6h
-
-<!-- * codeXpert 등록 -->
-* google shared drive
-* github setup
-* shell
-
